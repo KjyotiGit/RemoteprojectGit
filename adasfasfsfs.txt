@@ -1,0 +1,97 @@
+Received: from BM1PR01MB4689.INDPRD01.PROD.OUTLOOK.COM (2603:1096:b01:13::16)
+by BMXPR01MB2375.INDPRD01.PROD.OUTLOOK.COM with HTTPS; Thu, 18 Feb 2021
+15:38:29 +0000
+Authentication-Results: compunnel.com; dkim=none (message not signed)
+header.d=none;compunnel.com; dmarc=none action=none
+header.from=compunnel.com;
+Received: from BM1PR01MB3908.INDPRD01.PROD.OUTLOOK.COM (2603:1096:b00:77::12)
+by BM1PR01MB4689.INDPRD01.PROD.OUTLOOK.COM (2603:1096:b01:13::16) with
+Microsoft SMTP Server (version=TLS1_2,
+cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3868.27; Thu, 18 Feb
+2021 15:38:28 +0000
+Received: from BM1PR01MB3908.INDPRD01.PROD.OUTLOOK.COM
+([fe80::6c1a:9b95:d97f:1aa6]) by BM1PR01MB3908.INDPRD01.PROD.OUTLOOK.COM
+([fe80::6c1a:9b95:d97f:1aa6%7]) with mapi id 15.20.3846.043; Thu, 18 Feb 2021
+15:38:28 +0000
+Content-Type: application/ms-tnef; name="winmail.dat"
+Content-Transfer-Encoding: binary
+From: Vinod Singh <vinod.singh@compunnel.com>
+To: Geetika Mittal <gmittal@compunnel.com>, Animesh Goswami
+<agoswami@compunnel.com>, Compunel IT Support <itsupport@compunnel.com>
+CC: indiasupport <indiasupport@compunnel.com>
+Subject: Laptop Assigned | Geetika Mittal
+Thread-Topic: Laptop Assigned | Geetika Mittal
+Thread-Index: AdcGDBi1TqNW0zVpQnOfwxvMlDLHow==
+Date: Thu, 18 Feb 2021 15:38:28 +0000
+Message-ID:
+<BM1PR01MB3908D1762F876326E69F461BF7859@BM1PR01MB3908.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+<BM1PR01MB3908D1762F876326E69F461BF7859@BM1PR01MB3908.INDPRD01.PROD.OUTLOOK.COM>
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: BM1PR01MB3908.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [14.141.240.66]
+X-MS-Exchange-Organization-Network-Message-Id:
+1422dfed-cddb-4145-f736-08d8d4233d1b
+X-MS-PublicTrafficType: Email
+Return-Path: vinod.singh@compunnel.com
+X-MS-Exchange-Organization-ExpirationStartTime: 18 Feb 2021 15:38:28.7820
+(UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Office365-Filtering-Correlation-Id: 1422dfed-cddb-4145-f736-08d8d4233d1b
+X-MS-TrafficTypeDiagnostic: BM1PR01MB4689:
+X-LD-Processed: edbeb3be-d5a3-4095-a227-56c88813e6f7,ExtAddr
+X-MS-Exchange-Transport-Forked: True
+X-MS-Oob-TLC-OOBClassifiers: OLM:10000;
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report:
+CIP:255.255.255.255;CTRY:;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:SKI;H:BM1PR01MB3908.INDPRD01.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:;DIR:INB;
+X-MS-Exchange-AntiSpam-MessageData:
+=?us-ascii?Q?RI6VIm7HTse0ecTFkQ87unu4HNgMjvKFdnjmMHExGf3yuUfsaVVqZa+oVN8A?=
+=?us-ascii?Q?MiIXxtBXd59D0ryE7k9r1JnOGQSOSamIgUz/r9F4h+9xIo30hK57u050k8vX?=
+=?us-ascii?Q?9dAXNoIV9RnOvZRlSFt0lOavUpGHHyosaV0JGd7nndC/545jYoDgHwrU4Ewt?=
+=?us-ascii?Q?RTuVfAM1dqADACInalLK5WEmP5YgRMcNrdYKs9u7sHawD4AG1D1zT85+K5M2?=
+=?us-ascii?Q?ylFsoz+vGo3cSwBuOYPViY3nZzjR8n2kQw+tggH7DDZGeyo69SGPXJ7knpMn?=
+=?us-ascii?Q?UAqc0kRyrARha9aybuEBrHZLg3oYziRKGSvpM1nO+9tQKLOludu634cCH4vJ?=
+=?us-ascii?Q?vY/lK6GlJuODMbxkyEo+4Br/SRHucN5Tc9kyYV+D0qv4kOCNKJ60O49pMhmy?=
+=?us-ascii?Q?hzfqNqDfaLkIUwBij54t3AgeNa1jKfqrHrro172S4kUbcM3N5XP+UPotYAu3?=
+=?us-ascii?Q?14vtKFkFe5HBMDHAfAxcoQPGUN2gfOCY+Mi6JCtcziaqvMqytGxzPs0ZjzqK?=
+=?us-ascii?Q?TRPHLVq8pOyUnVyoOCkRfvvUSAo/f8uGzudI8d5Fu5nf3VE9fjEaXUwX8wfO?=
+=?us-ascii?Q?K3B/KHqZi5WaGWIi6W7+W1+HL2Le0G4T7Q+O/JYDJH5zmJ4c74bqEZlEh/EG?=
+=?us-ascii?Q?zkvqTcCCwMQJ2i/pFqr550AGigVgshH4duRSQNNTLCO7Jd9fla/bfR3pZANR?=
+=?us-ascii?Q?alC4ld7QCItNDLorTvKVScMzp87HeCAGS+k89zC+yjHGPX7ag1HKpZYJn8ut?=
+=?us-ascii?Q?tL2Io7F4Q4uPLsZmrzxa3xwRorDySIhpQalDxi+U68heb0J9I6Y/3QtNdtae?=
+=?us-ascii?Q?C17ME4MFflM3+raQa+EWo0Fa/PQNd/lXMrajq+9UnQ0hK1ci+IIN7syuuLVI?=
+=?us-ascii?Q?LME+BpsR5i9Ng30YjUL/lC0HGB5CDd8Y2gaFpQ65b1X0MrA88ACVJC1wVDfe?=
+=?us-ascii?Q?U0kGQ4AJzv6rlthHdpFRUpxI8P6HYBKd+gG5+gVz5gUP886ItrTKANCZgxE5?=
+=?us-ascii?Q?quunGygiBzHHeR4AgSh8biaaveqiHr+Q6FSxakPDXlPc3GBfoq17ecZBCIul?=
+=?us-ascii?Q?odmVMmhfZVmNRtz31Ecn7aP6+qscHRptJ7Z8gLWOVGEjMMgrPNmCpqYMeA5b?=
+=?us-ascii?Q?hM7iQDu/uZPP4KZVYYCBiTIX76gV1Z64p+H+mXGH7mvoRN/i1ArB8+EmagWp?=
+=?us-ascii?Q?JIc4kmBhImK8knyut2IbbSXPpCtyB8uaZDaHywPIjZp1t9gLUdZLZNQTn63T?=
+=?us-ascii?Q?+9OOAuu6kMiPvxI15ZQEy7sZ/e+/N/ldrRpH+JbALs5u07D32CmzANEZmCvs?=
+=?us-ascii?Q?wftDxlDyj03JiTQJRbJu3rxG?=
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 18 Feb 2021 15:38:28.6382
+(UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: edbeb3be-d5a3-4095-a227-56c88813e6f7
+X-MS-Exchange-CrossTenant-AuthSource: BM1PR01MB3908.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-Network-Message-Id: 1422dfed-cddb-4145-f736-08d8d4233d1b
+X-MS-Exchange-CrossTenant-MailboxType: HOSTED
+X-MS-Exchange-CrossTenant-UserPrincipalName: igptCTeJ0FGMOOfOc3myhCtdcdzzRQsBz5hRsuPi4/Y9AoOffCc6f8x0BZEwsVc9Tfzv8VdXV8bgIG7Cj6a1j3Uub/v00tBpbRqtKKM6SRI=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BM1PR01MB4689
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4745560
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.3868.027
+X-Microsoft-Antispam-Mailbox-Delivery:
+ucf:0;jmr:0;auth:0;dest:I;ENG:(750129)(520011016)(706158)(944506458)(944626604);
+X-Microsoft-Antispam-Message-Info:
+pt5w9G/GRHnb6lzZQtUPDyhLGSHORpUOI86LRziwDwUDO53TxTsYWPW42OYT1b6b3VLSZIF2gw39tXyC/adpncfFTlq7Y+eHXGA6PPTte5u8VW+wB+Gl3f7CTEd51gwFnWiM8bVFiAMYF3DPWfYUYDcvjso/43bqCKtqoKHhcK4YEQdDszuWVr589KrGyStSGE0dXxEbUUGqQsm4dg0h3anpMZ7JdsxmGpAmgUZUJxtgkNXEzLOadPohe6NgiywiRJ2mzSdrYbxKP3U3MkwtFsioh3S8WIhU3ze2tYTKO9RrfpXqtqAMCFK3l+yPqdupk55q/qrsGCxp6MGjpLFqX67OR4qIM+Obog+MeZrNLfTIFzG3IywbsOOWF/eDCN329q7rn5dLacvhUQT1PUbjpgV0bMytcmhr6W+ZSGf8Tt/EC04VdNyfogMmYhj+vZ0RjjAJXcd0ZrqWCMzVVx85m6DZKQmGjsbVJL7deI/KN5Yhaq/L9T2NNN/G9kgNHCTF2koZSZk62ZYu0AiEtPbcH+xaHVW8khxF8wykV686xJY=
